@@ -3,7 +3,7 @@
 
 Welcome to the JavaScript Calculator project! This simple yet powerful calculator web application was crafted with ❤️ using HTML, CSS, and JavaScript. It enables users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division with ease.
 
-![calculator-js-nova.netlify.app](demo.gif)
+demo - https://calculator-js-nova.netlify.app/
 
 ## ✨ Features
 
