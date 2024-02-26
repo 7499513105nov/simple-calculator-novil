@@ -7,6 +7,7 @@ demo - https://calculator-js-nova.netlify.app/
 
 ## ✨ Features
 
+
 - **Basic Arithmetic Operations:** Perform addition ➕, subtraction ➖, multiplication ✖️, and division ➗.
 - **Clear Functionality:** Clear the input field to start a new calculation.
 - **Error Handling:** Displays an error message if the input is invalid or if an operation cannot be performed.
